@@ -8,6 +8,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @SpringBootApplication
 public class MovieistApplication {
+	
 	public static void main(String[] args) {
 		SpringApplication.run(MovieistApplication.class, args);
 	}
